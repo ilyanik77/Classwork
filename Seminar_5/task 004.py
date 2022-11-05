@@ -5,7 +5,7 @@
     
 list = [1, 5, 2, 3, 4, 6, 1, 7]
 list_res=[]
-for j in range(1, len(list)):
+for j in range(1, len(list)-1):
     list_temp = [list[0]]
     for i in range(j, len(list)):
         if list[i] > list_temp[-1]:
