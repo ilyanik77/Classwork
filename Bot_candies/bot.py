@@ -17,7 +17,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TOKEN = '5896376480:AAEtjyncA15kkg2AQf1oezklrJe7PbM6zxo'
+TOKEN = 'полученный токен в ТГ'
 
 candy = 0
 
